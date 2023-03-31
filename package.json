@@ -1,0 +1,24 @@
+{
+    "name": "observation-duty",
+    "version": "1.0.0",
+    "description": "Node inquirer app to see and manage a department, roles, and wrokers within a company.",
+    "main": "workerTracker.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Poptartkay/observation-duty"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Poptartkay/observation-duty/issues"
+    },
+    "homepage": "https://github.com/Poptartkay/observation-duty#readme",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "inquirer": "^8.2.4",
+      "mysql2": "^3.1.2"
+    }
+  }
