@@ -4,7 +4,8 @@
     "description": "Node inquirer app to see and manage a department, roles, and wrokers within a company.",
     "main": "workerTracker.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node workerTracker.js"
     },
     "repository": {
       "type": "git",

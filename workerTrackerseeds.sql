@@ -16,11 +16,11 @@ VALUES ("Senior Engineer", 180000, 2),
 ("Accountant", 120000, 3);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Seto", "Kaiba", 1, 1),
-("Yugi", "Moto", 1, 1),
-("Joey", "Wheeler", 3, NULL),
-("Duo", "Maxwell", 2, NULL),
-("Billy", "Cranston", 2, 3),
-("Eric", "Hernandez", 4, NULL),
-("Kimberly", "Hart", 4, 6),
-("Zach", "Taylor", 2, 2);
+VALUES ("John", "Ford", 1, 1),
+("Timmy", "Turner", 1, 1),
+("Lightening", "McQueen", 3, NULL),
+("Juilen", "Solomita", 2, NULL),
+("Alfredo", "Linguine", 2, 3),
+("Lloyd", "Forger", 4, NULL),
+("Jenna", "Marbles", 4, 6),
+("Luis", "Ruiz", 2, 2);
